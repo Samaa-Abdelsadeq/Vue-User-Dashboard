@@ -59,8 +59,11 @@ npm run build
 The compiled files will be located in the `dist/` directory, ready to be deployed to any static hosting service (e.g., GitHub Pages, Vercel, or Netlify).
 
 ![Dashboard Preview](./task-3/screenshots/HomePage.png)
-![Home Page](./task-3/screenshots/HomePage.png)
+### 1. Users List
 ![Users List](./task-3/screenshots/UsersDisplayPage.png)
+### 2. Add User
 ![Add Users](./task-3/screenshots/AddUserPage.png)
-![User Info](./task-3/screenshots/UserDisplayPage.png)
+### 3. User Info
+![User Info](./task-3/screenshots/UserDetailsPage.png)
+### 4. Update User
 ![Update User](./task-3/screenshots/UserUpdatePage.png)
