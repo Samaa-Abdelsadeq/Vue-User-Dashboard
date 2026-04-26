@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "firstName": "Sophia",
+      "lastName": "Brown",
+      "maidenName": "",
+      "age": 43,
+      "gender": "female",
+      "email": "sophia.brown@x.dummyjson.com",
+      "phone": "+81 210-652-2785",
+      "username": "sophiab",
+      "birthDate": "1982-11-6",
+      "image": "https://dummyjson.com/icon/sophiab/128",
+      "bloodGroup": "O-",
+      "height": 177.72,
+      "weight": 52.6,
+      "address": {
+        "address": "1642 Ninth Street",
+        "city": "Washington",
+        "state": "Alabama",
+        "country": "United States"
+      },
+      "university": "Pepperdine University",
+      "company": {
+        "department": "Research and Development",
+        "name": "Schiller - Zieme",
+        "title": "Accountant"
+      }
+    },
+    {
+      "id": "4",
+      "firstName": "James",
+      "lastName": "Davis",
+      "maidenName": "",
+      "age": 46,
+      "gender": "male",
+      "email": "james.davis@x.dummyjson.com",
+      "phone": "+49 614-958-9364",
+      "username": "jamesd",
+      "birthDate": "1979-5-4",
+      "image": "https://dummyjson.com/icon/jamesd/128",
+      "bloodGroup": "AB+",
+      "height": 193.31,
+      "weight": 62.1,
+      "address": {
+        "address": "238 Jefferson Street",
+        "city": "Seattle",
+        "state": "Pennsylvania",
+        "country": "United States"
+      },
+      "university": "University of Southern California",
+      "company": {
+        "department": "Support",
+        "name": "Pagac and Sons",
+        "title": "Research Analyst"
+      }
+    },
+    {
+      "id": "6",
+      "firstName": "Olivia",
+      "lastName": "Wilson",
+      "maidenName": "",
+      "age": 23,
+      "gender": "female",
+      "email": "olivia.wilson@x.dummyjson.com",
+      "phone": "+91 607-295-6448",
+      "username": "oliviaw",
+      "birthDate": "2002-4-20",
+      "image": "https://dummyjson.com/icon/oliviaw/128",
+      "bloodGroup": "B+",
+      "height": 182.61,
+      "weight": 58,
+      "address": {
+        "address": "547 First Street",
+        "city": "Fort Worth",
+        "state": "Tennessee",
+        "country": "United States"
+      },
+      "university": "University of North Carolina--Chapel Hill",
+      "company": {
+        "department": "Product Management",
+        "name": "Pfannerstill Inc",
+        "title": "Research Analyst"
+      }
+    },
+    {
+      "id": "7",
+      "firstName": "Alexander",
+      "lastName": "Jones",
+      "maidenName": "",
+      "age": 39,
+      "gender": "male",
+      "email": "alexander.jones@x.dummyjson.com",
+      "phone": "+61 260-824-4986",
+      "username": "alexanderj",
+      "birthDate": "1986-10-20",
+      "image": "https://dummyjson.com/icon/alexanderj/128",
+      "bloodGroup": "AB-",
+      "height": 153.89,
+      "weight": 77.42,
+      "address": {
+        "address": "664 Maple Street",
+        "city": "Indianapolis",
+        "state": "Delaware",
+        "country": "United States"
+      },
+      "university": "University of Illinois--Urbana-Champaign",
+      "company": {
+        "department": "Engineering",
+        "name": "Dickens - Beahan",
+        "title": "Web Developer"
+      }
+    },
+    {
+      "id": "8",
+      "firstName": "Ava",
+      "lastName": "Taylor",
+      "maidenName": "",
+      "age": 28,
+      "gender": "female",
+      "email": "ava.taylor@x.dummyjson.com",
+      "phone": "+1 458-853-7877",
+      "username": "avat",
+      "birthDate": "1997-8-25",
+      "image": "https://dummyjson.com/icon/avat/128",
+      "bloodGroup": "AB-",
+      "height": 168.47,
+      "weight": 57.08,
+      "address": {
+        "address": "1197 First Street",
+        "city": "Fort Worth",
+        "state": "Rhode Island",
+        "country": "United States"
+      },
+      "university": "University of Wisconsin--Madison",
+      "company": {
+        "department": "Marketing",
+        "name": "Nikolaus Inc",
+        "title": "Chief Executive Officer"
+      }
+    },
+    {
+      "id": "9",
+      "firstName": "Ethan",
+      "lastName": "Martinez",
+      "maidenName": "",
+      "age": 34,
+      "gender": "male",
+      "email": "ethan.martinez@x.dummyjson.com",
+      "phone": "+92 933-608-5081",
+      "username": "ethanm",
+      "birthDate": "1991-2-12",
+      "image": "https://dummyjson.com/icon/ethanm/128",
+      "bloodGroup": "AB+",
+      "height": 159.19,
+      "weight": 68.81,
+      "address": {
+        "address": "466 Pine Street",
+        "city": "San Antonio",
+        "state": "Louisiana",
+        "country": "United States"
+      },
+      "university": "Syracuse University",
+      "company": {
+        "department": "Support",
+        "name": "Gorczany - Gottlieb",
+        "title": "Legal Counsel"
+      }
+    },
+    {
+      "id": "10",
+      "firstName": "Isabella",
+      "lastName": "Anderson",
+      "maidenName": "Davis",
+      "age": 32,
+      "gender": "female",
+      "email": "isabella.anderson@x.dummyjson.com",
+      "phone": "+49 770-658-4885",
+      "username": "isabellad",
+      "birthDate": "1993-6-10",
+      "image": "https://dummyjson.com/icon/isabellad/128",
+      "bloodGroup": "A-",
+      "height": 150.56,
+      "weight": 50.1,
+      "address": {
+        "address": "1964 Oak Street",
+        "city": "New York",
+        "state": "Utah",
+        "country": "United States"
+      },
+      "university": "California Institute of Technology (Caltech)",
+      "company": {
+        "department": "Marketing",
+        "name": "Pollich - Hilpert",
+        "title": "Chief Financial Officer"
+      }
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
