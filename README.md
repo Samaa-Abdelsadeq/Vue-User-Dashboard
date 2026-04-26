@@ -1,9 +1,3 @@
-Got it—let's keep it strictly professional and focused on the code. Here is a clean, standard `README.md` template for your **User Management System**. 
-
-You can copy and paste this directly into a file named `README.md` in your `Day03` or `task-3` folder.
-
----
-
 # User Management System
 
 A robust, responsive dashboard for managing user records. This project focuses on efficient data handling and a clean user interface, allowing for seamless Create, Read, Update, and Delete (CRUD) operations.
